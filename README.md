@@ -480,8 +480,7 @@ TiWorker.exe                 36736 Services                   0     18,280 K
 tasklist.exe                 35892 Console                    1     11,796 K
 ```
 8.WHOAMI
-```
-tasklist.exe                 35892 Console                    1     11,796 K
+``` 
 PS C:\Users\saira> whoami
 sairam\saira
 ```
